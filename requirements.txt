@@ -1,0 +1,7 @@
+ultralytics #Use Yolov8
+opencv-python  #Work with Video,Picture,Frames
+customtkinter  #Build GUI
+pillow   #Showing OpenCvs Pictures in GUI
+numpy    #Work with numbers
+lap      #Requirements For ultralytics
+pyinstaller    #exe
